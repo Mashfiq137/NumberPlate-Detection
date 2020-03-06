@@ -1,2 +1,2 @@
-# NumberPlate-Detection-
-Traditional Computer Vision Using OpenCV
+# NumberPlate-Detection
+Traditional Computer Vision example Using OpenCV
